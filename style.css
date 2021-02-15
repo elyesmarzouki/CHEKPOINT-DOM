@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+    font-size: 60px;
+    text-shadow:0 3px 0 rgb(0, 0, 0);
+    color: white;
+}
+.Shopping{
+    display: inline-flex;
+    margin-left: 110px;
+    border-radius: 20px;
+    background-color: white;
+}
+.inline{
+    margin: 15px;
+}
+.contenu-1{
+    padding: 50px;
+}
+.contenu-2{
+    margin-left: 100px;
+    background-color: black;
+    color: white;
+    padding: 50px;
+    border-radius: 20px;
+}
+h2{
+    margin: 30px;
+    text-align: center;
+}
+.bouuuton{
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+    background-color:white;
+    color: black;
+}
+#total-price{
+    text-align: center;
+    margin-bottom: 290px;
+}
+a{
+    text-decoration: none;
+}
+#pp{
+    display: flex;
+}
+body{
+    background-image: url(https://images.unsplash.com/photo-1523309375637-b3f4f2347f2d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8M3x8fGVufDB8fHw%3D&w=1000&q=80);
+}
